@@ -14,9 +14,9 @@
 **`B.Tech CSE @ UPES Dehradun · ML · DevOps · Cloud · Nanoelectronics`**
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-DakshMehrotra.github.io/portfolio-00ff88?style=for-the-badge&labelColor=0a0a0f)](https://DakshMehrotra.github.io/portfolio)
-[![LinkedIn](https://www.linkedin.com/in/mehrotradaksh/)
-[![GitHub](https://github.com/DakshMehrotra)
-[![LeetCode](https://leetcode.com/u/Daksh-24/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehrotradaksh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrotradaksh/)
+[![GitHub](https://img.shields.io/badge/GitHub-DakshMehrotra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DakshMehrotra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
 
